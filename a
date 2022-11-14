@@ -1,0 +1,123 @@
+C.C.S. University, Meerut. 
+Bachelors of Computer Application 
+Semester – wise
+14
+Course Code Course Name 
+BCA-301 Object Oriented programming language
+UNIT-I
+Introduction
+Introducing Object – Oriented Approach, Relating to other paradigms {Functional, Data 
+decomposition}.
+Basic terms and ideas
+Abstraction, Encapsulation, Inheritance, Polymorphism, Review of C, Difference between C and 
+C++ - cin, cout, new, delete, operators.
+UNIT-II
+Classes and Objects
+Encapsulation, information hiding, abstract data types, Object & classes, attributes, methods, 
+C++ class declaration, State idendity and behaviour of an object, Constructors and destructors, 
+instantiation of objects, Default parameter value, object types, C++ garbage collection, dynamic 
+memory allocation, Metaclass / abstract classes.
+UNIT-III
+Inheritance and Polymorphism
+Inheritance, Class hierarchy, derivation – public, private & protected, Aggregation, composition 
+vs classification hierarchies, Polymorphism, Categorization of polymorphism techniques, 
+Method polymorphism, Polymorphism by parameter, Operator overloading, Parameteric 
+Polymorphism
+UNIT-IV
+Generic function
+Template function, function name overloading, Overriding inheritance methods, Run time 
+polymorphism, Multiple Inheritance.
+UNIT-V
+Files and Exception Handling
+Streams and files, Namespaces, Exception handling, Generic Classes
+C.C.S. University, Meerut. 
+Bachelors of Computer Application 
+Semester – wise
+15
+Course Code Course Name 
+BCA-302 Data Structure Using C & C++
+UNIT-I
+Introduction to Data Structure and its Characteristics Array
+Representation of single and multidimensional arrays; Sprase arrays – lower and upper triangular 
+matrices and Tridiagonal matrices with Vector Representation also.
+UNIT-II
+Stacks and Queues
+Introduction and primitive operations on stack; Stack application; Infix, postfix, prefix 
+expressions; Evaluation of postfix expression; Conversion between prefix, infix and postfix, 
+introduction and primitive operation on queues, D- queues and priority queues.
+UNIT-III
+Lists
+Introduction to linked lists; Sequential and linked lists, operations such as traversal, insertion, 
+deletion searching, Two way lists and Use of headers
+UNIT-IV
+Trees
+Introduction and terminology; Traversal of binary trees; Recursive algorithms for tree operations 
+such as traversal, insertion, deletion; Binary Search Tree
+UNIT-V
+B-Trees
+Introduction, The invention of B-Tree; Statement of the problem; Indexing with binary search 
+trees; a better approach to tree indexes; B-Trees; working up from the bottom; Example for 
+creating a B-Tree
+UNIT-VI
+Sorting Techniques; Insertion sort, selection sort, merge sort, heap sort, searching Techniques: 
+linear search, binary search and hashing
+C.C.S. University, Meerut. 
+Bachelors of Computer Application 
+Semester – wise
+16
+Course Code Course Name
+BCA-303 Computer Architecture & Assembly Language
+UNIT-I
+Basic computer organization and design, Instructions and instruction codes, Timing and control/ 
+instruction cycle, Register/ Types of register/ general purpose & special purpose registers/ index 
+registers, Register transfer and micro operations/ register transfer instructions, Memory and 
+memory function, Bus/ Data transfer instructions, Arithmetic logic micro-operations/ shift microoperations, Input/ Output and interrupts, Memory reference instructions, Memory interfacing 
+memory/ Cache memory.
+UNIT-II
+Central Processing Unit
+General Register Organization/ stacks organizations instruction formats, addressing modes, Data 
+transfer and manipulation. Program control reduced computer, pipeline/ RISC/ CISC pipeline 
+vector processing/ array processing.
+Arithmetic Algorithms: Integer multiplication using shift and add, Booth’s algorithm, Integer 
+division, Floating-point representations.
+UNIT-III
+Computer Arithmetic
+Addition, subtraction and multiplication algorithms, divisor algorithms. Floating point, 
+arithmetic operations, decimal arithmetic operations, decimal arithmetic operations.
+UNIT-IV
+Input – Output Organization
+Peripheral devices, Input/output interface, ALU Asynchronous Data transfer, mode of transfer, 
+priority interrupts, Direct memory Address (DMA), Input/ Output processor (IOP), serial 
+communication.
+UNIT-V
+Evaluation of Microprocessor
+Overview of Intel 8085 to Intel Pentium processors Basic microprocessors, architecture and 
+interface, internal architecture, external architecture memory and input/ output interface.
+UNIT-VI
+Assembly language, Assembler, Assembly level instructions, macro, use of macros in I/C 
+instructions, program loops, programming arithmetic and logic subroutines, Input-Output 
+programming.
+C.C.S. University, Meerut. 
+Bachelors of Computer Application 
+Semester – wise
+17
+Course Code Course Name
+BCA-304 Business Economics
+UNIT-I
+The Scope and Method of Economics, the Economic Problem: Scarity & Choice, The Price
+Mechanism, Demand & Supply Equilibrium: The Concept of Elasticity and it’s Applications.
+The Production Process: output decisions – Revenues Costs and Profit Maximisation
+Laws of returns & Returns to Scale: Economics and Diseconomies of scale.
+UNIT-II
+Market Structure: Equilibrium of a firm and Price, Output Determination under Perfect 
+Competition Monopoly, Monoplastic Competition & Oligopoly
+UNIT-III
+Macro Economic Concerns
+Inflalation, Unemployment, Trade-Cycles, Circular Flow upto Four Sector Economy, 
+Government in the Macro Economy: Fiscal Policy, Monetary Policy, Measuring national Income 
+and Output
+UNIT-IV
+The World Economy – WTO, Globalisation, MNC’s, Outsourcing, Foreign Capital in India, 
+Trips, Groups of Twenty (G-20), Issues of dumping, Export-Import Policy 2004-2009
+C.C.S. University, Meerut. 
+Bachelors of Computer Application
